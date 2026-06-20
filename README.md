@@ -1,16 +1,89 @@
-## Hi there 👋
+# Hi, I'm WangXuan（雅萱）👋
 
-<!--
-**WangShuan/WangShuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Engineer | Freelancer  
+Shopify & SHOPLINE & Vue.js Developer
 
-Here are some ideas to get you started:
+7+ 年網站開發經驗｜服務 20+ 品牌客戶
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 服務項目
+
+- Shopify / SHOPLINE 電商平台客製化開發
+- Vue / Nuxt 前端網站開發
+- 客製化網站前、後台 / CMS 系統建置
+- 既有網站接手 / 維運 / 改版 / 重構
+- 設計稿不完整 / 示意圖 / 參考網站實作
+
+---
+
+## 精選案例
+
+### Shopify & SHOPLINE 電商客製化開發
+
+#### 問題
+
+品牌電商網站在既有平台限制下，版型與功能無法滿足行銷與營運需求。
+
+#### 我做了什麼
+
+- 客製化 Shopify Theme / SHOPLINE 既有架構
+- 建立可重複使用的頁面範本與元件
+- 針對品牌需求開發特規功能（比如尺寸表、跑馬燈、收合、Tab 切換等）
+- 優化響應式設計（比如可分別上傳電腦版 / 手機版圖片），以提高用戶體驗
+
+#### 結果
+
+讓品牌可根據檔期需求，快速建立活動頁面，並提升訂單轉換率。
+
+---
+
+### 企業官網含 CMS 系統建置（Nuxt）
+
+#### 問題
+
+舊網站維護成本高，內容更新依賴工程端，缺乏彈性管理方式。
+
+#### 我做了什麼
+
+- 使用 Nuxt 重構純 HTML / CSS 靜態網站
+- 建立 CMS 內容管理系統（上傳作品、報表、最新消息等）
+
+#### 結果
+
+大幅度降低維運成本，讓企業可隨時根據需求自行管理網站內容。
+
+---
+
+### 既有專案接手 / 爛尾專案修復
+
+#### 問題
+
+專案開發中斷或原開發者離開，導致網站錯誤、結構混亂或無法繼續開發。
+
+#### 我做了什麼
+
+- 分析既有程式碼與架構，並進行重構、模組化
+- 修復前端錯誤與功能問題，同時降低對前團隊的依賴
+
+#### 結果
+
+提升專案後續的可擴充、可維護性，並解決因外部資源依賴，導致網站不穩定的問題。
+
+---
+
+## 連結
+
+- 🌐 [Portfolio](https://wangshuan.github.io/)
+- 📄 [Resume](https://www.cakeresume.com/loveabo103103)
+- 📝 [Blog](https://hackmd.io/@WangShuan)
+
+---
+
+## 聯絡方式
+
+📩 xuan97222@gmail.com
+
+---
+
+> 可承接網站開發 / 改版 / 維運 / 接手專案
