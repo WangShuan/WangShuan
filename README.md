@@ -20,14 +20,16 @@
 
 ## 相關連結
 
-- 🌐 [Portfolio](https://wangshuan.github.io/)
-- 📄 [Resume](https://www.cakeresume.com/loveabo103103)
-- 📝 [Blog](https://hackmd.io/@WangShuan)
+- 🌐 [作品展示](https://wangshuan.github.io/)
+- 📄 [履歷詳情](https://www.cakeresume.com/loveabo103103)
+- 📝 [技術分享](https://hackmd.io/@WangShuan)
 
 ---
 
 ## 聯絡方式
 
 📩 xuan97222@gmail.com
+⏰ 通常於 24 小時內回覆
 
-> 可開立發票、接受急件、可承接網站開發 / 改版 / 維運 / 接手專案。
+> 可開立發票、接受急件，歡迎長期合作。
+> 承接網站開發 / 改版 / 維運 / 接手專案。
