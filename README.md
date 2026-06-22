@@ -24,9 +24,9 @@
 
 ## 相關連結
 
-- 🔗 [作品展示](https://wangshuan.github.io/)
-- 🔗 [履歷詳情](https://www.cakeresume.com/loveabo103103)
-- 🔗 [技術分享](https://hackmd.io/@WangShuan)
+- 🌍 [作品展示](https://wangshuan.github.io/)
+- 📄 [履歷詳情](https://www.cakeresume.com/loveabo103103)
+- 📚 [技術分享](https://hackmd.io/@WangShuan)
 
 ---
 
